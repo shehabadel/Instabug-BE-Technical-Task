@@ -1,0 +1,7 @@
+```
+SELECT DISTINCT student_id, students.name, avg(grade) FROM grades
+INNER JOIN students ON students.id = grades.student_id
+GROUP BY student_id
+ORDER BY avg(grade) DESC, LENGTH(students.name) ASC, students.name ASC
+
+```
