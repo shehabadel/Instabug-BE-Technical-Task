@@ -18,3 +18,5 @@ to execute the problems' queries and submit the solution.
 ## My comments
 
 Regarding this experience, I enjoyed it kind of. Yet it could have been better if it they have mentioned earlier some details like we could have submitted queries once more, and that Killing query issue is not a big deal.
+
+***Note: Check each file's history***
