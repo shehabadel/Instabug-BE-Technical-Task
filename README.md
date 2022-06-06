@@ -1,6 +1,8 @@
 # Instabug-BE-Technical-Task
 Instabug Backend Internship Summer 2022 Technical Task
 
+***Received my rejection letter in 06/06/2022. Sad, but atleast we are one rejection closer to an offer!***
+
 It consists of six MySQL questions where we had to run POST requests on their API endpoint
 to execute the problems' queries and submit the solution.
 
